@@ -2967,7 +2967,7 @@ MonoBehaviour:
     m_Interactions: 
     m_SingletonActionBindings: []
     m_Flags: 0
-  cooldown: 0
+  cooldown: 3
   currentCooldown: 0
   firecracker: {fileID: 246932969}
 --- !u!1001 &1108379786
